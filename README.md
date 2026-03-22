@@ -1,6 +1,7 @@
 # Human Risk Assessment and Mitigation Road Map 📊
 
 **Entorno:** Aura Motors
+
 **Frameworks:** NIST CSF (ID.RA) | ISO/IEC 27001:2022 (Cláusula 6.1.2)
 
 ---
@@ -30,12 +31,15 @@ Para este diagnóstico se utilizí la metodología de **Análisis de Riesgo Cual
 A continuación se muestran los 3 pilares de este proyecto
 
 1. **Matriz de riesgos identificados**
+
 Documentación técnica de 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
 
 2. **Protocolo de respuesta rápida (entregable visual)**
+
 Diseño instruccional de la guía "SOS" para fomentar la cultura del reporte inmediato.
 
 3. **Roadmap de remediación (Estrategia a 90 días)**
+
 Plan de acción para la implementación de controles técnicos y administrativos.
 
 ## Marco Normativo
