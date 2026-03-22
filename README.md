@@ -13,9 +13,9 @@ Tras el despliegue de la campaña de Awareness [**Security-Awareness-Strategy-Au
 
 Este análisis cubre a los 50 colaboradores de los diversos departamentos de la agencia, divididos en tres áreas críticas:
 
-**1. Ventas de piso y campo:** Alta movilidad y manejo de datos personales de los clientes.
-**2. Administración y finanzas:** Manejo de datos bancarios, facturación, transferencias y nóminas.
-**3. Servicio Técnico/Taller:** Acceso a sistémas de diagnóstico y bases de datos de refacciones.
+ **1. Ventas de piso y campo:** Alta movilidad y manejo de datos personales de los clientes.
+ **2. Administración y finanzas:** Manejo de datos bancarios, facturación, transferencias y nóminas.
+ **3. Servicio Técnico/Taller:** Acceso a sistémas de diagnóstico y bases de datos de refacciones.
 
 ## Metodología de Evaluación
 
