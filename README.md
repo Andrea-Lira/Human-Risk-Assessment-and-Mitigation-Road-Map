@@ -13,9 +13,9 @@ Tras el despliegue de la campaña de Awareness [**Security-Awareness-Strategy-Au
 
 Este análisis cubre a los 50 colaboradores de los diversos departamentos de la agencia, divididos en tres áreas críticas:
 
- **1. Ventas de piso y campo:** Alta movilidad y manejo de datos personales de los clientes.
- **2. Administración y finanzas:** Manejo de datos bancarios, facturación, transferencias y nóminas.
- **3. Servicio Técnico/Taller:** Acceso a sistémas de diagnóstico y bases de datos de refacciones.
+ 1. **Ventas de piso y campo:** Alta movilidad y manejo de datos personales de los clientes.
+ 2. **Administración y finanzas:** Manejo de datos bancarios, facturación, transferencias y nóminas.
+ 3. **Servicio Técnico/Taller:** Acceso a sistémas de diagnóstico y bases de datos de refacciones.
 
 ## Metodología de Evaluación
 
@@ -29,13 +29,13 @@ Para este diagnóstico se utilizí la metodología de **Análisis de Riesgo Cual
 
 A continuación se muestran los 3 pilares de este proyecto
 
-**1. Matriz de riesgos identificados**
+1. **Matriz de riesgos identificados**
 Documentación técnica de 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
 
-**2. Protocolo de respuesta rápida (entregable visual)**
+2. **Protocolo de respuesta rápida (entregable visual)**
 Diseño instruccional de la guía "SOS" para fomentar la cultura del reporte inmediato.
 
-**3. Roadmap de remediación (Estrategia a 90 días)**
+3. **Roadmap de remediación (Estrategia a 90 días)**
 Plan de acción para la implementación de controles técnicos y administrativos.
 
 ## Marco Normativo
