@@ -32,15 +32,15 @@ A continuación se muestran los 3 pilares de este proyecto
 
 1. **Matriz de riesgos identificados**
 
-Documentación técnica de 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
+  Documentación técnica de 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
 
 2. **Protocolo de respuesta rápida (entregable visual)**
 
-Diseño instruccional de la guía "SOS" para fomentar la cultura del reporte inmediato.
+  Diseño instruccional de la guía "SOS" para fomentar la cultura del reporte inmediato.
 
 3. **Roadmap de remediación (Estrategia a 90 días)**
 
-Plan de acción para la implementación de controles técnicos y administrativos.
+  Plan de acción para la implementación de controles técnicos y administrativos.
 
 ## Marco Normativo
 
