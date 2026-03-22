@@ -42,5 +42,8 @@ Plan de acción para la implementación de controles técnicos y administrativos
 
 Este análisis de riesgo cumple los requerimientos de:
 
-  * **NIST CSF (Identify-Risk Assessment):**de
+  * **NIST CSF (Identify-Risk Assessment):** Identificación de amenazas y vulnerabilidades.
+  * **ISO 27001 (6.1.2):** Proceso de evaluación de riesgos de seguridad de la información.
+
+
 
