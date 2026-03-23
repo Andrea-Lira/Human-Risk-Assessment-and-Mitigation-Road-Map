@@ -20,27 +20,28 @@ Este análisis cubre a los 50 colaboradores de los diversos departamentos de la 
 
 ## Metodología de Evaluación
 
-Para este diagnóstico se utilizí la metodología de **Análisis de Riesgo Cualitativo** basada en:
+Para este diagnóstico se utilizó la metodología de **Análisis de Riesgo Cualitativo** basada en:
 
   * **Probabilidad (1-5):** Frecuencia estimada de ocurrencia del evento.
   * **Impacto (1-5):** Severidad de daño (financiero, reputacional o legal).
   * **Nivel de Riesgo:** Probabilidad x impacto = Nivel de riesgo.
 
+| Riesgo Identificado | Probabilidad | Impacto | Nivel de Riesgo | Justificación del Impacto (Negocio) |
+| :--- | :---: | :---: | :---: | :--- |
+| **1. Cuentas Compartidas (Ventas)** | 5 | 4 | **20 (Crítico)** | Imposibilidad de auditoría en caso de fraude o fuga de datos de clientes (RGPD/LFPDPPP). |
+| **2. Conexiones Wi-Fi Públicas (BYOD)** | 4 | 3 | **12 (Alto)** | Exposición de credenciales corporativas y riesgo de interceptación de tráfico (Man-in-the-Middle). |
+| **3. Vishing (Ingeniería Social)** | 2 | 5 | **10 (Medio)** | Alto impacto financiero si se concede acceso remoto a sistemas de pago o inventario. |
+
 ## Estructura de Documentación (Sprints de Trabajo)
 
 A continuación se muestran los 3 pilares de este proyecto
 
-1. **Matriz de riesgos identificados**
-
-  Documentación técnica de 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
-
-2. **Protocolo de respuesta rápida (entregable visual)**
-
-  Diseño instruccional de la guía "SOS" para fomentar la cultura del reporte inmediato.
-
-3. **Roadmap de remediación (Estrategia a 90 días)**
-
-  Plan de acción para la implementación de controles técnicos y administrativos.
+1. **Matriz de Riesgos Identificados**
+   Documentación técnica de los 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
+3. **Protocolo de Respuesta Rápida (Entregable Visual)**
+   Diseño instruccional de la Guía "SOS" para fomentar la cultura del reporte inmediato.
+4. **Roadmap de Remediación (Estrategia 90 días)**
+   Plan de acción para la implementación de controles técnicos y administrativos.
 
 ## Marco Normativo
 
