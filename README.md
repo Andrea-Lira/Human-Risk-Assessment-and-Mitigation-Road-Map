@@ -26,11 +26,20 @@ Para este diagnóstico se utilizó la metodología de **Análisis de Riesgo Cual
   * **Impacto (1-5):** Severidad de daño (financiero, reputacional o legal).
   * **Nivel de Riesgo:** Probabilidad x impacto = Nivel de riesgo.
 
+---
+
 | Riesgo Identificado | Probabilidad | Impacto | Nivel de Riesgo | Justificación del Impacto (Negocio) |
 | :--- | :---: | :---: | :---: | :--- |
 | **1. Cuentas Compartidas (Ventas)** | 5 | 4 | **20 (Crítico)** | Imposibilidad de auditoría en caso de fraude o fuga de datos de clientes (RGPD/LFPDPPP). |
 | **2. Conexiones Wi-Fi Públicas (BYOD)** | 4 | 3 | **12 (Alto)** | Exposición de credenciales corporativas y riesgo de interceptación de tráfico (Man-in-the-Middle). |
 | **3. Vishing (Ingeniería Social)** | 2 | 5 | **10 (Medio)** | Alto impacto financiero si se concede acceso remoto a sistemas de pago o inventario. |
+
+---
+
+### 🔍 Análisis de Resultados
+
+* **El riesgo más crítico (20)** es el uso de cuentas compartidas. Al ser una agencia de ventas, la falta de **No Repudio** (saber quién hizo qué) representa una vulnerabilidad legal y operativa inaceptable.
+* **El Vishing**, aunque tiene una probabilidad menor debido a la desconfianza natural del personal, mantiene un **Impacto 5** ya que un solo ataque exitoso podría comprometer la red completa.
 
 ## Estructura de Documentación (Sprints de Trabajo)
 
