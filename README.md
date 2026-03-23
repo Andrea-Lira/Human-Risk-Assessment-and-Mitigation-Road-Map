@@ -36,7 +36,7 @@ Para este diagnóstico se utilizó la metodología de **Análisis de Riesgo Cual
 
 ---
 
-### 🔍 Análisis de Resultados
+### Análisis de Resultados
 
 * **El riesgo más crítico (20)** es el uso de cuentas compartidas. Al ser una agencia de ventas, la falta de **No Repudio** (saber quién hizo qué) representa una vulnerabilidad legal y operativa inaceptable.
 * **El Vishing**, aunque tiene una probabilidad menor debido a la desconfianza natural del personal, mantiene un **Impacto 5** ya que un solo ataque exitoso podría comprometer la red completa.
