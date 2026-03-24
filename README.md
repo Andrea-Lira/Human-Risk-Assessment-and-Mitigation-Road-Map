@@ -47,10 +47,16 @@ A continuación se muestran los 3 pilares de este proyecto
 
 1. **Matriz de Riesgos Identificados**
    Documentación técnica de los 3 vectores críticos (Identidad, Movilidad e Ingeniería Social).
-3. **Protocolo de Respuesta Rápida (Entregable Visual)**
+   
+2. **Protocolo de Respuesta Rápida (Entregable Visual)**
    Diseño instruccional de la Guía "SOS" para fomentar la cultura del reporte inmediato.
-4. **Roadmap de Remediación (Estrategia 90 días)**
-   Plan de acción para la implementación de controles técnicos y administrativos.
+
+   ![Protocolo-SOS-Respuesta-Rapida](INFOGRAFIAACCESOS.png)
+
+El diseño de la **Guía SOS** prioriza la legibilidad bajo estrés (reducción de carga cognitiva). Se implementaron resaltadores visuales en las acciones críticas para minimizar el **Mean Time to Respond (MTTR)**, alineándose con el dominio de **Response (RS)** del framework **NIST CSF**.
+
+3. **Roadmap de Remediación (Estrategia 90 días)**
+   Plan de acción para la implementación de controles técnicos y administrativos. (EN PROCESO)
 
 ## Marco Normativo
 
