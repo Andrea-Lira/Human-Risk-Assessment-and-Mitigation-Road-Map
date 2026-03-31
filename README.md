@@ -4,6 +4,9 @@
 
 **Frameworks:** NIST CSF (ID.RA) | ISO/IEC 27001:2022 (Cláusula 6.1.2)
 
+> [!IMPORTANT]
+> Este proyecto es la Fase 2 de la estrategia de seguridad para **Aura Motors**. Mientras que la Fase 1 se enfocó en la **prevención de Phishing**, este análisis aborda el **Riesgo de Identidad y Acceso Lógico**, alineándose con los dominios de Identificación y Respuesta de NIST CSF.
+
 ---
 
 ## Introducción y Contexto
@@ -56,7 +59,18 @@ A continuación se muestran los 3 pilares de este proyecto
 El diseño de la **Guía SOS** prioriza la legibilidad bajo estrés (reducción de carga cognitiva). Se implementaron resaltadores visuales en las acciones críticas para minimizar el **Mean Time to Respond (MTTR)**, alineándose con el dominio de **Response (RS)** del framework **NIST CSF**.
 
 3. **Roadmap de Remediación (Estrategia 90 días)**
-   Plan de acción para la implementación de controles técnicos y administrativos. (EN PROCESO)
+   Plan de acción para la implementación de controles técnicos y administrativos. Para mitigar el riesgo crítico de **Cuentas compartidas**, se propone el siguiente Roadmap alineada con el control de acceso lógico
+
+---
+
+* **Mes 1: Auditoría y Limpieza de Identidades**
+    Identificación de cuentas genéricas activas y migración hacia un modelo de **Identidad Única** por colaborador.
+* **Mes 2: Despliegue de Segundo Factor (MFA)**
+    Implementación de autenticación multifactor en puntos críticos de venta y administración para asegurar el **No Repudio**.
+* **Mes 3: Consolidación de la Cultura de Reporte**
+    Capacitación final sobre el **Protocolo SOS** y establecimiento de métricas de cumplimiento para la detección temprana de anomalías.
+
+---
 
 ## Marco Normativo
 
